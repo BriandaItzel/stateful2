@@ -3,25 +3,24 @@
 
  
 
-<h1 align="center"> Practica 18 👇</h1>
+<h1 align="center"> Practica 08 👇</h1>
 <p align="center"> creacion de aplicacion de stateless utilizando car, container y widgets</p>
 
 
 ## Objetivo
 
-///////////editar//////
+El objetivo de esta práctica es hacer uso del widget stateful, con el SDK flutter, por medio de un botón interactivo (actualización de los datos).
 
 
 ## Resultados
 
-- //////////editar////////
-
+- se visualiza un previo gif con la funcionalidad de dicha practica 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193708607-cd93b36b-2787-4464-bd00-1c2b01918029.gif"width="70%"/></p>
 
 
 
 
-- //////editar///////////////////
+- Estructura del código 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193708719-19e0afe2-feac-4f2d-a3a4-d3f2f8c26ab3.png" width="30%"/
 <p align="end"><img src="https://user-images.githubusercontent.com/77856988/193708754-6117a738-7263-45b5-bc4a-069424b3bb8d.png" width="30%"/
@@ -31,8 +30,8 @@
 ></p>
 
 
-/////editar
-- ///////////////////////////editar///////////
+
+- 	Los resultados obtenidos:  creación de la interfaz, con el uso de un botón para la actualización de datos.
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193708783-858d79fe-d34c-47e3-ac02-87b7b9214b7c.png" width="30%"/
 <p align="end"><img src="https://user-images.githubusercontent.com/77856988/193708796-cb2ff620-876a-4667-9c58-6970bd78cfe0.png" width="30%"
 
