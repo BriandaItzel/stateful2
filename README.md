@@ -20,7 +20,7 @@ El objetivo de esta práctica es hacer uso del widget stateful, con el SDK flutt
 
 
 
-- Estructura del código 
+- Se integra otras imagenes para mostrar los siguientes mensajes si es que se sigue pulsando el boton
 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193708719-19e0afe2-feac-4f2d-a3a4-d3f2f8c26ab3.png" width="30%"/
 <p align="end"><img src="https://user-images.githubusercontent.com/77856988/193708754-6117a738-7263-45b5-bc4a-069424b3bb8d.png" width="30%"/
